@@ -16,6 +16,7 @@ mod bellperson;
 mod circuit;
 mod constants;
 mod nifs;
+mod nifs3;
 mod r1cs;
 
 // public modules
